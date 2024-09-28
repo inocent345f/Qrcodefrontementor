@@ -40,7 +40,7 @@ body {
     color: #6b7280;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 375px) {
     .card {
         width: 90%;
         padding: 15px;
@@ -55,7 +55,6 @@ body {
     }
 
     .qr-code img {
-        width: 100%;
         max-width: 200px;
     }
 }
