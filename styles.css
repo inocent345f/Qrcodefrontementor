@@ -40,7 +40,7 @@ body {
     color: #6b7280;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 300px) {
     .card {
         width: 90%;
         padding: 15px;
